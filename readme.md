@@ -35,7 +35,7 @@ The current maintainers (people who can merge pull requests) are:
 An up-to-date list of contributors is available here: https://github.com/scalameta/metadoc/graphs/contributors.
 
 ## License
-
+```
 Copyright 2017 Ólafur Páll Geirsson and Jonas Fonseca
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use
@@ -45,4 +45,5 @@ License at http://www.apache.org/licenses/LICENSE-2.0
 Unless required by applicable law or agreed to in writing, software distributed
 under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
 CONDITIONS OF ANY KIND, either express or implied. See the License for the
-specific language governing permissions and limitations under the License.  ```
+specific language governing permissions and limitations under the License. 
+```
